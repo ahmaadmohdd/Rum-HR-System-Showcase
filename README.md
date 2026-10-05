@@ -5,8 +5,9 @@
 <h1 align="center">RUM HR</h1>
 
 <p align="center">
-  A self-hosted HR platform running in production for a group of companies in the UAE:
-  employee records, documents, requests and leave in one system — with AI that reads the paperwork.
+  A self-hosted HR platform custom-built for <b>RUM Building Stones</b> and its group of companies
+  in the UAE, running in production: employee records, documents, requests and leave in one
+  system — with AI that reads the paperwork.
 </p>
 
 <p align="center">
@@ -18,6 +19,9 @@
   <img alt="Status" src="https://img.shields.io/badge/status-in%20production-1f9d6b" />
 </p>
 
+> **Built for RUM Building Stones.** RUM HR is not an off-the-shelf product: it was designed
+> and built around RUM Building Stones' own companies, roles, approval chain and documents.
+>
 > This is a **showcase** repository. The source code, configuration, data and the address of
 > the running system are private; this page describes what it does and how it is built.
 
@@ -25,7 +29,7 @@
 
 ## The problem
 
-The group tracked its people in spreadsheets: one for employees, one for company licences,
+RUM Building Stones tracked its people in spreadsheets: one for employees, one for company licences,
 one for vehicles, several for leave. Passports, visas, labour cards and Emirates IDs expire on
 dates nobody was watching — and in the UAE an expired residence visa is not a paperwork
 problem, it is a legal one, with fines that accrue daily.

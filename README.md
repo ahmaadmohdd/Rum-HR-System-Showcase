@@ -36,36 +36,36 @@ notices an expiry in time.
 ## Features
 
 **Documents, read by AI**
-- 🪪 **AI document reading** — upload an Emirates ID, passport, visa, labour card or licence
+- **AI document reading** — upload an Emirates ID, passport, visa, labour card or licence
   and a vision model extracts the number, dates and holder name, pre-filled for a person to
   confirm. The holder's face is cropped from the ID to become their profile photo.
-- ⏰ **Expiry warnings** — a reminder job flags documents as their dates approach, at 30, 14,
+- **Expiry warnings** — a reminder job flags documents as their dates approach, at 30, 14,
   7, 5, 3, 1 and 0 days out, and expiring documents surface on the dashboard and in the
   review queue.
-- ✅ **Review & approval queue** — employee, company and vehicle documents all go through one
+- **Review & approval queue** — employee, company and vehicle documents all go through one
   sequential approval workflow.
-- 🗄️ **Nothing is lost on replace** — uploading a new version archives the old one
+- **Nothing is lost on replace** — uploading a new version archives the old one
   automatically, for employee, company and vehicle documents alike.
-- 📦 **Bulk import** — employees from Excel; documents in bulk, matched to the right person or
+- **Bulk import** — employees from Excel; documents in bulk, matched to the right person or
   vehicle automatically.
 
 **Requests & leave**
-- 📝 **Employee requests** — leave, permission, overtime, business trips, working from home,
+- **Employee requests** — leave, permission, overtime, business trips, working from home,
   shift changes and attendance corrections, each with an approval chain, escalation, a
   follow-up conversation, withdrawal and edit-and-resend.
-- 🌴 **Leave** — annual balance with carry-forward (capped at 60 days), combined sick leave
+- **Leave** — annual balance with carry-forward (capped at 60 days), combined sick leave
   (21 days a year), an adjustment ledger and late-hours tracking.
-- 📅 **Shared calendar** — recurring off-days and dated official holidays.
+- **Shared calendar** — recurring off-days and dated official holidays.
 
 **The organisation**
-- 🏢 **Multi-company** — every company in the group managed from one system, with company
+- **Multi-company** — every company in the group managed from one system, with company
   scoping enforced in the backend on every query.
-- 🌳 **Org chart that drives permissions** — the reporting hierarchy is derived from the
+- **Org chart that drives permissions** — the reporting hierarchy is derived from the
   organisation, and an employee who heads HR gets HR powers because of where they sit.
-- 🚗 **Company assets** — company documents with versioning and audience targeting, plus
+- **Company assets** — company documents with versioning and audience targeting, plus
   vehicles with their registration, insurance and permits.
-- 📣 **Announcements** with read receipts, notifications and a full audit log.
-- 🌍 **English, Arabic and Urdu** with right-to-left layout, installable on phones as an app.
+- **Announcements** with read receipts, notifications and a full audit log.
+- **English, Arabic and Urdu** with right-to-left layout, installable on phones as an app.
 
 ## Architecture
 
